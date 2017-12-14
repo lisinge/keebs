@@ -23,10 +23,14 @@
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
             {% if page.url == node.url %}
+              <ul>
               {% assign sections_list = page.sections %}
               {% for section in sections_list %}
-                <a class="sidebar-nav-item" href="#{{ section.slug }}">{{ section.title }}</a>
+                <li>
+                  <a class="sidebar-nav-item" href="#{{ section.slug }}">{{ section.title }}</a>
+                </li>
               {% endfor %}
+              </ul>
             {% endif %}
           {% endif %}
         {% endif %}
