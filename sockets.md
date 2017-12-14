@@ -1,5 +1,6 @@
 ---
-title: About
+title: Hot-swap sockets guide
+layout: page
 ---
 
 <p class="message">
