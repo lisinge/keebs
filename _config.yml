@@ -6,7 +6,7 @@ title:            Keebs
 tagline:          "Guides and notes on mechanical keyboard building"
 description:      "Guides and notes on mechanical keyboard building"
 url:              http://keebs.mike.gg
-baseurl:          /
+baseurl:          "/"
 
 author:
   name:           'Mike'
