@@ -99,6 +99,15 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.sidebar ul {
+  margin: 0 0 0 20px;
+  list-style-type: none;
+}
+
+.sidebar ul a {
+  color: rgba(255,255,255,.5);
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
