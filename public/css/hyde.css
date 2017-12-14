@@ -101,6 +101,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar ul {
   margin: 0 0 0 20px;
+  padding: 0;
   list-style-type: none;
 }
 
