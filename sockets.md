@@ -1,11 +1,12 @@
 ---
 title: Hot-swap sockets guide
 layout: page
+permalink: sockets
 ---
 
 <p class="alert alert-warning">
-Hot-swap sockets are quite expensive so remember to do your own research before
-placing an order.
+Hot-swap sockets are quite expensive so i recommend that you make sure that the
+sockets you order will work for you.
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
