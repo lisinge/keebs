@@ -240,6 +240,15 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
+/* Purple */
+.theme-base-80 .sidebar {
+  background-color: #800080;
+}
+.theme-base-80 .content a,
+.theme-base-80 .related-posts li a:hover {
+  color: #800080;
+}
+
 /* Brown */
 .theme-base-0f .sidebar {
   background-color: #8f5536;
