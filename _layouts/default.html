@@ -1,4 +1,4 @@
-<!doctype html>
+!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
@@ -16,18 +16,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-
-
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul>
-        {% endif %}
+        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h18>
+        <ul>
+          <li>
+            <a href="/sockets">Hot-swap sockets guide</a>
+          </li>
+        </ul>
       </header>
 
       <section>
