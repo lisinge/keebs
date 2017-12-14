@@ -3,8 +3,10 @@ title: Hot-swap sockets guide
 layout: page
 permalink: sockets
 sections:
-  - introduction
-  - tests
+  - slug: introduction
+    title: Introduction
+  - slug: test
+    title: Test
 ---
 
 <p class="alert alert-warning">
